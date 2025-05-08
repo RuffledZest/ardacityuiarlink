@@ -97,7 +97,7 @@ export default function DocsLayout() {
         {activeTab === "Arweave" && (
           <div className="py-4">
             <a
-              href="https://arweave-components.vercel.app/"
+              href="https://arcomponents-arlink_arlink.arweave.net/"
               target="_blank"
               rel="noreferrer"
               className=" px-4 py-2 bg-white text-black rounded-md hover:bg-zinc-200 transition-colors  flex justify-center items-center text-center"

@@ -22,6 +22,7 @@ import { useLocation } from "react-router-dom"
 import hh from ".././../public/hh.png"
 import hh2 from ".././../public/hh2.png"
 import hh3 from ".././../public/hh3.png"
+import hh4 from ".././../public/hh4.png"
 
 import hf from ".././../public/hf.png"
 import hf2 from ".././../public/hf2.png"
@@ -93,13 +94,13 @@ const menuItems = [
   },
   {
     image: hh2,
-    link: "#features",
-    title: "Features",
-    description: "Discover what makes us special",
+    link: "https://vibhanshalok.vercel.app/",
+    title: "Portfolios",
+    description: "Build your portfolio with ArDacity",
   },
   {
     image: hh2,
-    link: "#showcase",
+    link: "https://healers-landing-page-new.vercel.app/",
     title: "Showcase",
     description: "See what you can build",
   },
@@ -108,6 +109,24 @@ const menuItems = [
     link: "https://github.com/RuffledZest/MarkOne_ArDacityUI",
     title: "GitHub",
     description: "Check out our code",
+  },
+  {
+    title: "Canvas Application",
+    description: "A canvas-based application on Arweave  for drawing and sharing",
+    image: hh4,
+    link: "https://mark-one-ao.vercel.app/",
+  },
+  {
+    title: "Decentralized Social Media",
+    description: "A social media platform built on Arweave for permanent data storage",
+    image: hh,
+    link: "#",
+  },
+  {
+    title: "Arweave Analytics",
+    description: "Analytics dashboard for Arweave transactions and data",
+    image: hh2,
+    link: "#",
   },
 ]
 
